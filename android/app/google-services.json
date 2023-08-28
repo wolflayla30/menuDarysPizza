@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "822263632368",
+    "project_id": "menurestaurante-2011f",
+    "storage_bucket": "menurestaurante-2011f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822263632368:android:ff9e51a3601c0b69988d35",
+        "android_client_info": {
+          "package_name": "com.wolf.menuresturante"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822263632368-7p2homvqhk4m2ibu6l1v9941mi1fte3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wolf.menuresturante",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "822263632368-qg96qvfppci0fqi03ore1eukoeqo3gt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbG7DzuQ_6WHRZumi4arDxSRXfjgy7XGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822263632368-qg96qvfppci0fqi03ore1eukoeqo3gt9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "822263632368-ga9l9jbokoa511hm5dabktpk8nbpq02d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wolf.menuresturante"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
